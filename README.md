@@ -9,3 +9,6 @@ Makes a flag.txt file with the last text displayed in the terminal.
 
 ## finish
 Renames the current directory to the directory with COMPLETED at the end of the name.
+
+## copyClip
+Copies the last output to the clipboard.
